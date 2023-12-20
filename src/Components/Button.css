@@ -1,0 +1,15 @@
+#ButtonStyles{
+   
+    width: 120px;
+    height: 40px;
+    
+    background-color: blue;
+    padding: 5px 10px 10px;
+    outline: none;
+    border: none;
+    justify-content: space-between;
+    margin-left: 300px;
+    margin-top: 20px;
+    border-radius: 10%;
+}
+
